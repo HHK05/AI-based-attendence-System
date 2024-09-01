@@ -78,7 +78,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - [OpenCV Contributors](https://github.com/opencv/opencv/graphs/contributors)
 - [TensorFlow Community](https://www.tensorflow.org/community)
-- [FastAPI Creator - Sebastián Ramírez](https://github.com/tiangolo)
 
 <div align="center">
 
